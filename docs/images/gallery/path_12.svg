@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" font-family="monospace">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="22.4" y="38.4" font-size="17" font-weight="bold" fill="#222">Path: 12 vertices, all bridges</text>
+<g stroke="#445566" stroke-opacity="0.550" stroke-width="1.20">
+<line x1="312.8" y1="330.5" x2="378.7" y2="203.8"/>
+<line x1="378.7" y1="203.8" x2="331.9" y2="54.8"/>
+<line x1="331.9" y1="54.8" x2="173.8" y2="63.9"/>
+<line x1="173.8" y1="63.9" x2="77.4" y2="170.2"/>
+<line x1="77.4" y1="170.2" x2="34.4" y2="305.8"/>
+<line x1="34.4" y1="305.8" x2="59.0" y2="448.7"/>
+<line x1="59.0" y1="448.7" x2="151.6" y2="558.9"/>
+<line x1="151.6" y1="558.9" x2="287.9" y2="609.2"/>
+<line x1="287.9" y1="609.2" x2="430.0" y2="584.6"/>
+<line x1="430.0" y1="584.6" x2="541.5" y2="491.6"/>
+<line x1="541.5" y1="491.6" x2="605.6" y2="367.6"/>
+</g>
+<g stroke="#222" stroke-width="0.8">
+<circle cx="312.8" cy="330.5" r="13.2" fill="#96a0b4"/>
+<circle cx="605.6" cy="367.6" r="13.2" fill="#96a0b4"/>
+<circle cx="378.7" cy="203.8" r="16.0" fill="#96a0b4"/>
+<circle cx="331.9" cy="54.8" r="16.0" fill="#96a0b4"/>
+<circle cx="173.8" cy="63.9" r="16.0" fill="#96a0b4"/>
+<circle cx="77.4" cy="170.2" r="16.0" fill="#96a0b4"/>
+<circle cx="34.4" cy="305.8" r="16.0" fill="#96a0b4"/>
+<circle cx="59.0" cy="448.7" r="16.0" fill="#96a0b4"/>
+<circle cx="151.6" cy="558.9" r="16.0" fill="#96a0b4"/>
+<circle cx="287.9" cy="609.2" r="16.0" fill="#96a0b4"/>
+<circle cx="430.0" cy="584.6" r="16.0" fill="#96a0b4"/>
+<circle cx="541.5" cy="491.6" r="16.0" fill="#96a0b4"/>
+</g>
+<g font-size="14" fill="#111" text-anchor="middle">
+<text x="312.8" y="314.3">0</text>
+<text x="378.7" y="184.8">1</text>
+<text x="331.9" y="35.8">2</text>
+<text x="173.8" y="44.9">3</text>
+<text x="77.4" y="151.2">4</text>
+<text x="34.4" y="286.8">5</text>
+<text x="59.0" y="429.7">6</text>
+<text x="151.6" y="539.9">7</text>
+<text x="287.9" y="590.2">8</text>
+<text x="430.0" y="565.6">9</text>
+<text x="541.5" y="472.6">10</text>
+<text x="605.6" y="351.4">11</text>
+</g>
+</svg>

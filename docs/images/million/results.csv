@@ -1,0 +1,9 @@
+stage,best_s,median_s,worst_s,repeats,m_friendships_per_s,peak_rss_mb,check_passed
+degree histogram,0.004234,0.004351,0.004414,5,732.866,167,1
+connected components,0.115475,0.122701,0.133971,5,26.872,167,1
+k-core decomposition,0.515660,0.718747,0.924788,5,6.018,237,1
+triangles + clustering,2.984565,3.056064,3.296030,5,1.040,237,1
+PageRank (to 1e-8),8.141104,8.356529,9.287141,5,0.381,237,1
+Louvain communities,3.456719,3.545195,3.717193,5,0.898,295,1
+hop distances from the top hub,0.371278,0.391131,0.427574,5,8.358,295,1
+friend suggestion (median query),0.000012,0.000012,0.000012,1,0.000,295,1

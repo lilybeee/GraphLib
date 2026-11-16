@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" font-family="monospace">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="22.4" y="38.4" font-size="17" font-weight="bold" fill="#222">Star: 1 hub, 11 leaves</text>
+<g stroke="#445566" stroke-opacity="0.550" stroke-width="1.20">
+<line x1="201.3" y1="341.6" x2="96.6" y2="489.6"/>
+<line x1="201.3" y1="341.6" x2="133.6" y2="174.4"/>
+<line x1="201.3" y1="341.6" x2="116.1" y2="394.3"/>
+<line x1="201.3" y1="341.6" x2="22.4" y2="365.0"/>
+<line x1="201.3" y1="341.6" x2="337.0" y2="386.1"/>
+<line x1="201.3" y1="341.6" x2="211.7" y2="479.0"/>
+<line x1="201.3" y1="341.6" x2="232.0" y2="192.1"/>
+<line x1="201.3" y1="341.6" x2="374.4" y2="276.5"/>
+<line x1="201.3" y1="341.6" x2="292.1" y2="264.9"/>
+<line x1="201.3" y1="341.6" x2="317.3" y2="484.6"/>
+<line x1="201.3" y1="341.6" x2="71.3" y2="269.0"/>
+</g>
+<g stroke="#222" stroke-width="0.8">
+<circle cx="96.6" cy="489.6" r="9.3" fill="#71aacf"/>
+<circle cx="133.6" cy="174.4" r="9.3" fill="#71aacf"/>
+<circle cx="116.1" cy="394.3" r="9.3" fill="#71aacf"/>
+<circle cx="22.4" cy="365.0" r="9.3" fill="#71aacf"/>
+<circle cx="337.0" cy="386.1" r="9.3" fill="#71aacf"/>
+<circle cx="211.7" cy="479.0" r="9.3" fill="#71aacf"/>
+<circle cx="232.0" cy="192.1" r="9.3" fill="#71aacf"/>
+<circle cx="374.4" cy="276.5" r="9.3" fill="#71aacf"/>
+<circle cx="292.1" cy="264.9" r="9.3" fill="#71aacf"/>
+<circle cx="317.3" cy="484.6" r="9.3" fill="#71aacf"/>
+<circle cx="71.3" cy="269.0" r="9.3" fill="#71aacf"/>
+<circle cx="201.3" cy="341.6" r="41.6" fill="#a50026" fill-opacity="0.25" stroke="none"/>
+<circle cx="201.3" cy="341.6" r="16.0" fill="#a50026"/>
+</g>
+<g font-size="14" fill="#111" text-anchor="middle">
+<text x="201.3" y="322.6">0</text>
+<text x="96.6" y="477.3">1</text>
+<text x="133.6" y="162.1">2</text>
+<text x="116.1" y="382.0">3</text>
+<text x="22.4" y="352.7">4</text>
+<text x="337.0" y="373.8">5</text>
+<text x="211.7" y="466.7">6</text>
+<text x="232.0" y="179.8">7</text>
+<text x="374.4" y="264.2">8</text>
+<text x="292.1" y="252.6">9</text>
+<text x="317.3" y="472.3">10</text>
+<text x="71.3" y="256.7">11</text>
+</g>
+<g font-family="monospace">
+<defs><linearGradient id="heat" x1="0" y1="1" x2="0" y2="0"><stop offset="0.000" stop-color="#313695"/><stop offset="0.143" stop-color="#4575b4"/><stop offset="0.286" stop-color="#74add1"/><stop offset="0.429" stop-color="#fee090"/><stop offset="0.571" stop-color="#fdae61"/><stop offset="0.714" stop-color="#f46d43"/><stop offset="0.857" stop-color="#d73027"/><stop offset="1.000" stop-color="#a50026"/></linearGradient></defs>
+<text x="408.8" y="172.0" font-size="14" font-weight="bold" fill="#222">Popularity</text>
+<rect x="408.8" y="184.0" width="22.0" height="230.0" fill="url(#heat)" stroke="#444"/>
+<path d="M430.8 349.8 h5.0" stroke="#222"/>
+<text x="438.8" y="353.8" font-size="11" fill="#222">1</text>
+<path d="M430.8 312.3 h5.0" stroke="#222"/>
+<text x="438.8" y="316.3" font-size="11" fill="#222">2</text>
+<path d="M430.8 248.2 h5.0" stroke="#222"/>
+<text x="438.8" y="252.2" font-size="11" fill="#222">5</text>
+<path d="M430.8 192.1 h5.0" stroke="#222"/>
+<text x="438.8" y="196.1" font-size="11" fill="#222">10</text>
+<text x="408.8" y="430.0" font-size="11" fill="#444">friends (log scale)</text>
+<text x="408.8" y="444.0" font-size="11" fill="#444">hot = very popular</text>
+<text x="408.8" y="468.0" font-size="13" font-weight="bold" fill="#222">Most popular</text>
+<rect x="408.8" y="484.0" width="14.0" height="14.0" rx="3" fill="#a50026" stroke="#333"/>
+<text x="430.8" y="496.0" font-size="12" fill="#111">1. 0  11</text>
+<rect x="408.8" y="504.0" width="14.0" height="14.0" rx="3" fill="#71aacf" stroke="#333"/>
+<text x="430.8" y="516.0" font-size="12" fill="#111">2. 11  1</text>
+<rect x="408.8" y="524.0" width="14.0" height="14.0" rx="3" fill="#71aacf" stroke="#333"/>
+<text x="430.8" y="536.0" font-size="12" fill="#111">3. 10  1</text>
+<rect x="408.8" y="544.0" width="14.0" height="14.0" rx="3" fill="#71aacf" stroke="#333"/>
+<text x="430.8" y="556.0" font-size="12" fill="#111">4. 9  1</text>
+<rect x="408.8" y="564.0" width="14.0" height="14.0" rx="3" fill="#71aacf" stroke="#333"/>
+<text x="430.8" y="576.0" font-size="12" fill="#111">5. 8  1</text>
+<rect x="408.8" y="584.0" width="14.0" height="14.0" rx="3" fill="#71aacf" stroke="#333"/>
+<text x="430.8" y="596.0" font-size="12" fill="#111">6. 7  1</text>
+<rect x="408.8" y="604.0" width="14.0" height="14.0" rx="3" fill="#71aacf" stroke="#333"/>
+<text x="430.8" y="616.0" font-size="12" fill="#111">7. 6  1</text>
+</g>
+</svg>

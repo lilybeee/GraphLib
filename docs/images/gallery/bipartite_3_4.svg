@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" font-family="monospace">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="22.4" y="38.4" font-size="17" font-weight="bold" fill="#222">Complete bipartite K3,4</text>
+<g stroke="#445566" stroke-opacity="0.550" stroke-width="1.20">
+<line x1="363.7" y1="137.6" x2="529.2" y2="526.4"/>
+<line x1="363.7" y1="137.6" x2="605.6" y2="268.9"/>
+<line x1="363.7" y1="137.6" x2="91.9" y2="140.5"/>
+<line x1="363.7" y1="137.6" x2="34.4" y2="390.3"/>
+<line x1="317.2" y1="330.3" x2="529.2" y2="526.4"/>
+<line x1="317.2" y1="330.3" x2="605.6" y2="268.9"/>
+<line x1="317.2" y1="330.3" x2="91.9" y2="140.5"/>
+<line x1="317.2" y1="330.3" x2="34.4" y2="390.3"/>
+<line x1="262.3" y1="524.8" x2="529.2" y2="526.4"/>
+<line x1="262.3" y1="524.8" x2="605.6" y2="268.9"/>
+<line x1="262.3" y1="524.8" x2="91.9" y2="140.5"/>
+<line x1="262.3" y1="524.8" x2="34.4" y2="390.3"/>
+</g>
+<g stroke="#222" stroke-width="0.8">
+<circle cx="529.2" cy="526.4" r="14.7" fill="#96a0b4"/>
+<circle cx="605.6" cy="268.9" r="14.7" fill="#96a0b4"/>
+<circle cx="91.9" cy="140.5" r="14.7" fill="#96a0b4"/>
+<circle cx="34.4" cy="390.3" r="14.7" fill="#96a0b4"/>
+<circle cx="363.7" cy="137.6" r="16.0" fill="#96a0b4"/>
+<circle cx="317.2" cy="330.3" r="16.0" fill="#96a0b4"/>
+<circle cx="262.3" cy="524.8" r="16.0" fill="#96a0b4"/>
+</g>
+<g font-size="14" fill="#111" text-anchor="middle">
+<text x="363.7" y="118.6">0</text>
+<text x="317.2" y="311.3">1</text>
+<text x="262.3" y="505.8">2</text>
+<text x="529.2" y="508.7">3</text>
+<text x="605.6" y="251.1">4</text>
+<text x="91.9" y="122.8">5</text>
+<text x="34.4" y="372.6">6</text>
+</g>
+</svg>

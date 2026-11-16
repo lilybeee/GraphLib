@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="666" viewBox="0 0 980 666" font-family="sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="490.0" y="28" text-anchor="middle" font-size="19" font-weight="bold" fill="#111827">One million users: time and peak memory per algorithm (list backend)</text>
+<text x="490.0" y="48" text-anchor="middle" font-size="12" fill="#6b7280">about 4 million friendships, 4 GiB cap; each case checked against an independent answer; the whole run took 3.5 minutes</text>
+<text x="240" y="85" text-anchor="end" font-size="12" fill="#111827">social network</text>
+<rect x="250" y="72" width="540.0" height="16" rx="3" fill="#3b82f6"/>
+<text x="798.0" y="85" font-size="12" fill="#374151">22.6 s   (369 MB)</text>
+<text x="240" y="109" text-anchor="end" font-size="12" fill="#111827">k shortest paths</text>
+<rect x="250" y="96" width="432.9" height="16" rx="3" fill="#3b82f6"/>
+<text x="690.9" y="109" font-size="12" fill="#374151">18.1 s   (202 MB)</text>
+<text x="240" y="133" text-anchor="end" font-size="12" fill="#111827">binary/edge-list io</text>
+<rect x="250" y="120" width="255.9" height="16" rx="3" fill="#3b82f6"/>
+<text x="513.9" y="133" font-size="12" fill="#374151">10.7 s   (346 MB)</text>
+<text x="240" y="157" text-anchor="end" font-size="12" fill="#111827">social queries</text>
+<rect x="250" y="144" width="201.6" height="16" rx="3" fill="#3b82f6"/>
+<text x="459.6" y="157" font-size="12" fill="#374151">8.4 s   (259 MB)</text>
+<text x="240" y="181" text-anchor="end" font-size="12" fill="#111827">copy/union/transpose</text>
+<rect x="250" y="168" width="174.0" height="16" rx="3" fill="#3b82f6"/>
+<text x="432.0" y="181" font-size="12" fill="#374151">7.3 s   (589 MB)</text>
+<text x="240" y="205" text-anchor="end" font-size="12" fill="#111827">pagerank</text>
+<rect x="250" y="192" width="170.3" height="16" rx="3" fill="#3b82f6"/>
+<text x="428.3" y="205" font-size="12" fill="#374151">7.1 s   (249 MB)</text>
+<text x="240" y="229" text-anchor="end" font-size="12" fill="#111827">memory budget refusal</text>
+<rect x="250" y="216" width="129.6" height="16" rx="3" fill="#3b82f6"/>
+<text x="387.6" y="229" font-size="12" fill="#374151">5.4 s   (188 MB)</text>
+<text x="240" y="253" text-anchor="end" font-size="12" fill="#111827">cover / independent</text>
+<rect x="250" y="240" width="112.2" height="16" rx="3" fill="#3b82f6"/>
+<text x="370.2" y="253" font-size="12" fill="#374151">4.7 s   (518 MB)</text>
+<text x="240" y="277" text-anchor="end" font-size="12" fill="#111827">graphml/gml/json/dot</text>
+<rect x="250" y="264" width="107.6" height="16" rx="3" fill="#3b82f6"/>
+<text x="365.6" y="277" font-size="12" fill="#374151">4.5 s   (121 MB)</text>
+<text x="240" y="301" text-anchor="end" font-size="12" fill="#111827">colour: dsatur</text>
+<rect x="250" y="288" width="98.1" height="16" rx="3" fill="#3b82f6"/>
+<text x="356.1" y="301" font-size="12" fill="#374151">4.1 s   (553 MB)</text>
+<text x="240" y="325" text-anchor="end" font-size="12" fill="#111827">dijkstra</text>
+<rect x="250" y="312" width="86.8" height="16" rx="3" fill="#3b82f6"/>
+<text x="344.8" y="325" font-size="12" fill="#374151">3.6 s   (322 MB)</text>
+<text x="240" y="349" text-anchor="end" font-size="12" fill="#111827">graph predicates</text>
+<rect x="250" y="336" width="76.7" height="16" rx="3" fill="#3b82f6"/>
+<text x="334.7" y="349" font-size="12" fill="#374151">3.2 s   (986 MB)</text>
+<text x="240" y="373" text-anchor="end" font-size="12" fill="#111827">adv widest/flood/jps</text>
+<rect x="250" y="360" width="73.0" height="16" rx="3" fill="#3b82f6"/>
+<text x="331.0" y="373" font-size="12" fill="#374151">3.1 s   (299 MB)</text>
+<text x="240" y="397" text-anchor="end" font-size="12" fill="#111827">bellman-ford</text>
+<rect x="250" y="384" width="69.5" height="16" rx="3" fill="#3b82f6"/>
+<text x="327.5" y="397" font-size="12" fill="#374151">2.9 s   (277 MB)</text>
+<text x="240" y="421" text-anchor="end" font-size="12" fill="#111827">generators</text>
+<rect x="250" y="408" width="58.0" height="16" rx="3" fill="#3b82f6"/>
+<text x="316.0" y="421" font-size="12" fill="#374151">2.4 s   (161 MB)</text>
+<text x="240" y="445" text-anchor="end" font-size="12" fill="#111827">core numbers</text>
+<rect x="250" y="432" width="56.8" height="16" rx="3" fill="#3b82f6"/>
+<text x="314.8" y="445" font-size="12" fill="#374151">2.4 s   (570 MB)</text>
+<text x="240" y="469" text-anchor="end" font-size="12" fill="#111827">mst kruskal/prim</text>
+<rect x="250" y="456" width="52.8" height="16" rx="3" fill="#3b82f6"/>
+<text x="310.8" y="469" font-size="12" fill="#374151">2.2 s   (253 MB)</text>
+<text x="240" y="493" text-anchor="end" font-size="12" fill="#111827">colour: welsh-powell</text>
+<rect x="250" y="480" width="51.9" height="16" rx="3" fill="#3b82f6"/>
+<text x="309.9" y="493" font-size="12" fill="#374151">2.2 s   (490 MB)</text>
+<text x="240" y="517" text-anchor="end" font-size="12" fill="#111827">mutation + compaction</text>
+<rect x="250" y="504" width="51.4" height="16" rx="3" fill="#3b82f6"/>
+<text x="309.4" y="517" font-size="12" fill="#374151">2.2 s   (266 MB)</text>
+<text x="240" y="541" text-anchor="end" font-size="12" fill="#111827">colour: greedy</text>
+<rect x="250" y="528" width="50.9" height="16" rx="3" fill="#3b82f6"/>
+<text x="308.9" y="541" font-size="12" fill="#374151">2.1 s   (493 MB)</text>
+<text x="240" y="565" text-anchor="end" font-size="12" fill="#111827">dijkstra multi-source</text>
+<rect x="250" y="552" width="44.1" height="16" rx="3" fill="#3b82f6"/>
+<text x="302.1" y="565" font-size="12" fill="#374151">1.9 s   (205 MB)</text>
+<text x="240" y="589" text-anchor="end" font-size="12" fill="#111827">adv refine: cycle/star</text>
+<rect x="250" y="576" width="44.0" height="16" rx="3" fill="#3b82f6"/>
+<text x="302.0" y="589" font-size="12" fill="#374151">1.8 s   (310 MB)</text>
+<text x="240" y="613" text-anchor="end" font-size="12" fill="#111827">0-1 bfs</text>
+<rect x="250" y="600" width="43.0" height="16" rx="3" fill="#3b82f6"/>
+<text x="301.0" y="613" font-size="12" fill="#374151">1.8 s   (200 MB)</text>
+<text x="240" y="637" text-anchor="end" font-size="12" fill="#111827">a-star</text>
+<rect x="250" y="624" width="41.6" height="16" rx="3" fill="#3b82f6"/>
+<text x="299.6" y="637" font-size="12" fill="#374151">1.7 s   (293 MB)</text>
+</svg>
